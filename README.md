@@ -16,7 +16,8 @@ Installation
 2. Check the checkbox 'Developer mode.' This will introduce several new buttons to the chrome://extensions page
 3. Click the button 'Load unpacked extension...'
 4. Select the do-responsive Extension directory, click OK.
-5. The extension should now be loaded and ready to be interacted upon.
+5. Now you can the phone icon next the URL bar. This will open the extension in new tab
+6. The extension should now be loaded and ready to be interacted upon.
 
 
 
